@@ -8,3 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "TestJitpack"
 include ':app'
+include ':app:library'
+include ':myapplication'
